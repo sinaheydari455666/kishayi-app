@@ -1,0 +1,13 @@
+{
+  "name":"دستیار کیشایی",
+  "short_name":"کیشایی",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#080c14",
+  "theme_color":"#0b0f17",
+  "dir":"rtl",
+  "lang":"fa",
+  "icons":[
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
